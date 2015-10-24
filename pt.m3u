@@ -7,14 +7,9 @@ http://0.0.0.0
 #EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
 
-#EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://209.95.51.123:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7675g814sp3588l7675on648x3588ib3588b817pp3588l7675op3588l7675op3588l7675od7675g814sn814h873o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y3x223a4n284a4a444x2s24464n2x47435e3h44494v213p4v2x4o4x5j504a4g3k4l5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTg=&str=is&ok=&cat=16&link=1&idom=
 
 #EXTINF:-1 group-title="Portugal", SPORT TV 2 [B][COLOR orange]FSD[/COLOR][/B]
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title="Portugal", SPORT TV 2 [B][COLOR orange]FSD[/COLOR][/B]
-rtmp://209.95.51.123:1935/stream/ playpath=0qZBo1519y0yBojb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2663g371sp6056l2663on587x6056ib6056b809pp6056l2663op6056l2663op6056l2663od2663g371sn371h798o&width=600&height=460&st=14i4c5n4w574x2s2f436q24693u5i444c4r5k484e4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=6464d4l5l5n5x203e434t2a4s2a4d4n234x504a3f4w21374f476w226d3j4r58413e4h4l5g4y3x223a4n284a4a444x2s24464n234k495e3h44494v213p4v2x4o4x5s5a4a4i4i4l5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTI=&str=is&ok=&cat=16&link=2&idom=
 
 #EXTINF:-1 group-title="Portugal", SPORT TV 3 [B][COLOR orange]FSD[/COLOR][/B]
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
