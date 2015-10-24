@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Portugal", [B][COLOR red]--- Portugal ---[/COLOR][/B]
+http://0.0.0.0
+
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.51.123:1935/stream/ playpath=NdTBo1519y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7675g814sp3588l7675on648x3588ib3588b817pp3588l7675op3588l7675op3588l7675od7675g814sn814h873o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x4k5u3a3f4w21374f476w226d3j4i5y313c3j4l5q2y3x223a4n284a4a444x2s24464n2x47435e3h44494v213p4v2x4o4x5j504a4g3k4l5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTg=&str=is&ok=&cat=16&link=1&idom=
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.51.123:1935/stream/ playpath=0qZBo1519y0yBojb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2663g371sp6056l2663on587x6056ib6056b809pp6056l2663op6056l2663op6056l2663od2663g371sn371h798o&width=600&height=460&st=14i4c5n4w574x2s2f436q24693u5i444c4r5k484e4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=6464d4l5l5n5x203e434t2a4s2a4d4n234x504a3f4w21374f476w226d3j4r58413e4h4l5g4y3x223a4n284a4a444x2s24464n234k495e3h44494v213p4v2x4o4x5s5a4a4i4i4l5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTI=&str=is&ok=&cat=16&link=2&idom=
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 3 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 3 / BENFICA TV 1/2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=15 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 4 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/magellan
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 5 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
+
+#EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
+#EXTINF:-1 group-title="Portugal", Benfica TV 1  [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460&st=a49315n4w574x2s2f436q24693u504a4s446u4n4n4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=84q2n584b4m59464745434c4t2i5z2n2c4o4p3a3f4w21374f476w226d3j495e4h3r4r406p4y3x223a4n284a4a444x2s24464n2c4b3y4e3h44494v213p4v2x4o4x5a5g4q4v4s406m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTU=&str=is&ok=&cat=16&link=1&idom=magellan
+
+#EXTINF:-1 group-title="Portugal", Benfica TV 2  [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460&st=1473e4n4w574x2s2f436q24693u5s44465i5h3i4q2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=546474n574c4t254n594r274w234b4n234m423a3f4w21374f476w226d3j41684v354e3v5s2y3x223a4n284a4a444x2s24464n23493b4e3h44494v213p4v2x4o4x526a44594f3v5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=Mg==&str=is&ok=&cat=16&link=1&idom=/magellan
+
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" group-title="RTP", RTP1 (1) [SD]
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="RTP", RTP1 (2) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="RTP", RTP1 (3) [SD]
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="RTP", RTP 2 (1) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png" group-title="RTP", RTP 2 (2) [SD]
+http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
+
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%20Internacional.png" group-title="RTP", RTP Internacional (1) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (1) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="rtpn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rtp%20informacao.png" group-title="RTP", RTP Informação (2) [SD]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RTP", RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT", SIC (1) [SD] (OFF)
+http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png" group-title="TDT", SIC (2) [SD]
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png" group-title="NOTICIAS", SIC NOTICIAS (1) [SD] (OFF)
+http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
+
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Sic%20Noticias.png" group-title="NOTICIAS", SIC NOTICIAS (2) [SD] (OFF)
+http://213.13.26.7:1936/live/_definst_/sicnoticias/chunklist_w656214511.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", SIC NOTICIAS (3) [SD]
+rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+
+
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI [SD]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI (2) [SD]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png" group-title="TDT", TVI (3) [SD]
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", TVI24 (1) [FSD]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+
+#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (1) [SD]
+rtmp://208.43.81.145/stream playpath=cmtvteywtdsu?id=17306&pk=c098779812e8996843543514009a2800d6cecfe1a98b0f293daec0628d6cf06e swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvteywtdsu/1/600/450 conn=S:OK timeout=15
+
+#EXTINF:0 audio-track="pt" group-title="NOTICIAS", CMTV (2) [SD]
+rtmp://31.220.0.196/privatestream/ playpath=cmtv33ed?keys=Z8JKXT08v54nbKsHsHpLnDww&keyt=1439178385 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/ conn=S:OK timeout=15
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt", ECONÓMICO TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS (1) [SD]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS (2) [SD]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:-1 group-title="NOTICIAS", TPA Internacional (1) [FSD]
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+
+#EXTINF:-1, Canal Parlamento (1) [SD]
+rtsp://www.canal.parlamento.pt/Live
+
+
+#EXTINF:-1 group-title="ANIMAÇAO", Disney Junior Brasil (1) [SD]
+http://bit.ly/IPTVGlobal-disneyjr
+#EXTINF:-1 group-title="ANIMAÇAO", Zoomoo Brasil (1) [SD]
+http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
+
+#EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN.png" group-title="FILMES_E_SERIES", AXN [SD]
+http://95.211.186.215:8081/loadbalance/98428539324743154941/playlist.m3u8
+#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/AXN WHITE.png" group-title="FILMES_E_SERIES", AXN WHITE [SD]
+http://95.211.186.215:8081/loadbalance/95688633243575582995/playlist.m3u8
+#EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/FOX.png" group-title="FILMES_E_SERIES", FOX [SD]
+http://95.211.186.215:8081/loadbalance/86261251431855333973/playlist.m3u8
+#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Crime.png" group-title="FILMES_E_SERIES", FOX CRIME [SD]
+http://95.211.186.215:8081/loadbalance/36925217397715777225/playlist.m3u8
+#EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Life.png" group-title="FILMES_E_SERIES", FOX LIFE [SD]
+http://95.211.186.215:8081/loadbalance/53398224345944758161/playlist.m3u8
+#EXTINF:-1 tvg-name="foxmovies.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Fox Movies.png" group-title="FILMES_E_SERIES", FOX MOVIES [SD]
+http://95.211.186.215:8081/loadbalance/31679512315718398352/playlist.m3u8
+#EXTINF:-1  audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/Hollywood.png" group-title="FILMES_E_SERIES", HOLLYWOOD [SD]
+http://95.211.186.215:8081/loadbalance/27634186654973396567/playlist.m3u8
+#EXTINF:-1 tvg-name="SyFy.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SyFy.png" group-title="FILMES_E_SERIES", SYFY [SD]
+http://95.211.186.215:8081/loadbalance/74763795273792662115/playlist.m3u8
+#EXTINF:-1 audio-track="pt" tvg-logo="http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/" group title="FILMES_E_SERIES", TVI FICCAO [SD]
+http://95.211.186.215:8081/loadbalance/83133496787987943466/playlist.m3u8
